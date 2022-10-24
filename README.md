@@ -12,7 +12,22 @@ I'm a Front End developer in training, and also a Biochemistry undergraduate in 
 Loving the process as much as the outcome, I take a collaborative, creative and strategic approach to solving problems.
 
 
-How to reach me: @kekereekunolushola@gmail.com
+How to reach me: @kekereekunolushola@gmail.com 
+
+## Support
+
+For support, email kekereekunolushola@gmail.com 
+
+heart Sponsor me
+
+
+<hr>
+
+## Language and Tools
+Javascript, HTML, CSS...
+## 🛠 Skills
+Javascript, HTML, CSS...
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://my-portfolio.lsdyq-lsaawdy-b.repl.co/)
@@ -21,21 +36,21 @@ How to reach me: @kekereekunolushola@gmail.com
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
+👩‍💻 I'm currently working on interesting things
 
-🧠 I'm currently learning...
+🧠 I'm currently learning to better my Frontend development skills
 
-👯‍♀️ I'm looking to collaborate on...
+👯‍♀️ I'm looking to collaborate on amazing projects involving HTML/CSS/JAVASCRIPT or REACT
 
 🤔 I'm looking for help with...
 
 💬 Ask me about...
 
-📫 How to reach me...
+📫 How to reach me...@ kekereekunolushola@gmail.com
 
-😄 Pronouns...
+😄 Pronouns: ...
 
-⚡️ Fun fact...
+⚡️ Fun fact: Love Research, Football, tourism...
 
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
