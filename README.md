@@ -12,7 +12,7 @@ I'm a Front End developer in training, and also a Biochemistry undergraduate in 
 Loving the process as much as the outcome, I take a collaborative, creative and strategic approach to solving problems.
 
 
-
+How to reach me: @kekereekunolushola@gmail.com
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://my-portfolio.lsdyq-lsaawdy-b.repl.co/)
